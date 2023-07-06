@@ -1,6 +1,6 @@
 {
   "name": "droplinked-web3-evm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Droplinked's web3-polygon integration",
   "main": "index.ts",
   "scripts": {
@@ -23,6 +23,7 @@
   "dependencies": {
     "axios": "^1.4.0",
     "eth-sig-util": "^3.0.1",
-    "ethers": "^6.6.2"
+    "ethers": "^6.6.2",
+    "moralis": "^2.22.3"
   }
 }
